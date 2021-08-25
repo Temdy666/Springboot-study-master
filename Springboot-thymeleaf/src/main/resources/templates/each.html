@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>迭代器each使用</title>
+	</head>
+	<body>
+		<h1 th:each="person,stat : ${persons}">
+			序号
+			<span th:text="${stat.index+1}"></span>，
+			<span th:text="${person.name}"></span>
+			是一位
+			<span th:if="${person.sex==0}">男</span>
+			<span th:unless="${person.sex==0}">女</span>
+			孩子！
+		</h1>
+	</body>
+</html>

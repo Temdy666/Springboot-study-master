@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>if-else条件分支使用</title>
+	</head>
+	<body>
+		<h1>
+			<span th:text="${name}"></span>
+			是一位
+			<span th:if="${sex==0}">男</span>
+			<span th:unless="${sex==0}">女</span>
+			孩子！
+		</h1>
+	</body>
+</html>

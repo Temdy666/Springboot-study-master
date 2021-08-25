@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Thymeleaf模板引入</title>
+	</head>
+	<body>
+	<header th:replace="common/header::header"></header>
+	<div th:replace="common/main::main"></div>
+	<main th:include="common/main::main"></main>
+	<footer th:replace="common/footer::footer"></footer>
+	</body>
+</html>
