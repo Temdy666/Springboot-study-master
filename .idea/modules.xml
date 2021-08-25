@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot-helloword/Springboot-helloword.iml" filepath="$PROJECT_DIR$/Springboot-helloword/Springboot-helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-study-master.iml" filepath="$PROJECT_DIR$/Springboot-study-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-thymeleaf/Springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/Springboot-thymeleaf/Springboot-thymeleaf.iml" />
+    </modules>
+  </component>
+</project>
