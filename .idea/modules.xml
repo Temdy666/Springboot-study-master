@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Springboot-helloword/Springboot-helloword.iml" filepath="$PROJECT_DIR$/Springboot-helloword/Springboot-helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-mybatisplus/Springboot-mybatisplus.iml" filepath="$PROJECT_DIR$/Springboot-mybatisplus/Springboot-mybatisplus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-study-master.iml" filepath="$PROJECT_DIR$/Springboot-study-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-thymeleaf/Springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/Springboot-thymeleaf/Springboot-thymeleaf.iml" />
     </modules>
